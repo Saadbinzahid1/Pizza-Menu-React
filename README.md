@@ -43,5 +43,3 @@ This project marks the beginning of my React journey and focuses on understandin
 - Basic project structuring in React
 
 ---
-
-## 📁 Project Structure
