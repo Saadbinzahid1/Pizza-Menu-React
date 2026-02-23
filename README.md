@@ -6,11 +6,11 @@ This project marks the beginning of my React journey and focuses on understandin
 
 ---
 
-<!-- ## 🌐 Live Preview
+## 🌐 Live Preview
 
-(Deployment link here after hosting) -->
+[Live Demo](https://timespizzamenu.netlify.app)
 
-<!-- --- -->
+---
 
 ## 🛠️ Tech Stack
 
